@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Dylan Ashton n01442206 -->
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DylanActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dot"
+        android:id="@+id/dylan_text">
+    </TextView>
+
+    <ImageButton
+        android:id="@+id/pizza_pizza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="100dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/pizza_button"
+        android:src="@mipmap/pizzapizza"
+        tools:ignore="RedundantDescriptionCheck,RedundantDescriptionCheck,DuplicateSpeakableTextCheck,DuplicateSpeakableTextCheck" />
+
+    <ImageButton
+        android:id="@+id/pizza_73"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/pizza_button"
+        android:src="@mipmap/pizza73"
+        tools:ignore="RedundantDescriptionCheck" />
+
+    <ImageButton
+        android:id="@+id/pizza_hut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="350dp"
+        android:layout_marginTop="100dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/pizza_button"
+        android:src="@mipmap/pizzahut"
+        tools:ignore="RedundantDescriptionCheck" />
+
+    <ImageButton
+        android:id="@+id/pizza_nova"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="350dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/pizza_button"
+        android:src="@mipmap/pizzanova"
+        tools:ignore="RedundantDescriptionCheck,RedundantDescriptionCheck" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="300dp"
+        android:text="@string/next"
+        tools:ignore="TextContrastCheck" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

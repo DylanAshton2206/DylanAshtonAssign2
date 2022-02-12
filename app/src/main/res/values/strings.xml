@@ -1,16 +1,20 @@
+<!--Dylan Ashton n01442206 -->
 <resources>
     <string name="app_name">DylanAshton N01442206</string>
     <string name="pizza_dial">pizza dial</string>
-    <string name="credits">Credits</string>
     <string name="help">-Help-</string>
     <string name="uid">Dylan Ashton n01442206</string>
     <string name="menu_pizza_toast">Order pizza</string>
     <string name="next">Next</string>
     <string name="pizza_button">Pizza button</string>
+    <string name="else_if">Choose a store</string>
+    <string name="error">Please pick a store</string>
+    <string name="dylan">Dylan</string>
+    <string name="dot">…</string>
     <string-array name="pizza_stores">
         <item>PizzaPizza</item>
+        <item>Pizza73</item>
         <item>PizzaHut</item>
         <item>PizzaNova</item>
-        <item>Pizza73</item>
     </string-array>
 </resources>

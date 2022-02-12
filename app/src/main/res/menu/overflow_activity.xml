@@ -10,7 +10,7 @@
             android:orderInCategory="1"/>
         <item
             android:id="@+id/maker_name"
-            android:title="@string/credits"
+            android:title="@string/dylan"
             app:showAsAction="ifRoom"
             android:orderInCategory="2"/>
         <item

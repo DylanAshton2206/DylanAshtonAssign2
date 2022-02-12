@@ -104,12 +104,20 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\menu\\overflow_activity.xml"
     },
     {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzapizza_round.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzapizza_round.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza_round.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_dylan.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\layout-land\\activity_dylan.xml"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzapizza_round.png.flat",

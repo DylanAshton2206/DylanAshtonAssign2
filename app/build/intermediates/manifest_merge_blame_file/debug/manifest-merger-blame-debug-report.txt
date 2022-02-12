@@ -11,7 +11,7 @@
 9-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:6:5-23:19
+11-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:6:5-26:19
 12        android:allowBackup="true"
 12-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -26,47 +26,54 @@
 18-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:10:9-54
 19        android:supportsRtl="true"
 19-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:11:9-35
-20        android:theme="@style/Theme.DylanAssign2" >
-20-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:12:9-50
-21        <activity
-21-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:14:9-22:20
-22            android:name="dylan.ashton.n01442206.DylanActivity"
-22-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:15:13-42
-23            android:exported="true" >
-23-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:16:13-36
-24            <intent-filter>
-24-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:17:13-21:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:18:17-69
-25-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:18:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:20:17-77
-27-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:20:27-74
-28            </intent-filter>
-29        </activity>
+20        android:testOnly="true"
+21        android:theme="@style/Theme.DylanAssign2" >
+21-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:12:9-50
+22        <activity
+22-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:14:9-16:40
+23            android:name="dylan.ashton.n01442206.OrderActivity"
+23-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:15:13-42
+24            android:exported="false" />
+24-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:16:13-37
+25        <activity
+25-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:17:9-25:20
+26            android:name="dylan.ashton.n01442206.DylanActivity"
+26-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:18:13-42
+27            android:exported="true" >
+27-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:19:13-36
+28            <intent-filter>
+28-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:21:17-69
+29-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:21:25-66
 30
-31        <provider
-31-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-32            android:name="androidx.startup.InitializationProvider"
-32-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-33            android:authorities="dylan.ashton.n01442206.androidx-startup"
-33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-34            android:exported="false" >
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-35            <meta-data
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-36                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-37                android:value="androidx.startup" />
-37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-38            <meta-data
-38-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-39                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-39-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-40                android:value="androidx.startup" />
-40-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-41        </provider>
-42    </application>
-43
-44</manifest>
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:23:17-77
+31-->C:\Users\dylin\AndroidStudioProjects\DylanAssign2\app\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+36            android:name="androidx.startup.InitializationProvider"
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+37            android:authorities="dylan.ashton.n01442206.androidx-startup"
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+38            android:exported="false" >
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+39            <meta-data
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+40                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+41                android:value="androidx.startup" />
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dylin\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+42            <meta-data
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+44                android:value="androidx.startup" />
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dylin\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+45        </provider>
+46    </application>
+47
+48</manifest>
