@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Dylan Ashton n01442206 -->
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dylan_help"
+            android:title="@string/help"
+            app:showAsAction="never"
+            android:orderInCategory="1"/>
+        <item
+            android:id="@+id/maker_name"
+            android:title="@string/credits"
+            app:showAsAction="ifRoom"
+            android:orderInCategory="2"/>
+        <item
+            android:id="@+id/pizza"
+            android:icon="@mipmap/pizza_round"
+            app:showAsAction="always"
+            android:title="@string/pizza_dial"
+            android:autoLink="phone"/>
+    </group>
+</menu>
