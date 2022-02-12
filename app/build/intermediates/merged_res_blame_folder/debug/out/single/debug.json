@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizza_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\pizza_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzapizza.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzapizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzahut.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzahut.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizza73_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\pizza73_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzanova.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzanova.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza73_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza73_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzapizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzapizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza73_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza73_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzapizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzapizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzapizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzapizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza73_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza73_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza73_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza73_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizza.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dylan.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\layout\\activity_dylan.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizzapizza_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\pizzapizza_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\menu_overflow_activity.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\menu\\overflow_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzapizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzapizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzapizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzapizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzahut_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzahut_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza73.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza73.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzapizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzapizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzanova.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzanova.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzanova_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzanova_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza73.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza73.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza73.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza73.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizza_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizza_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzanova.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzanova.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzapizza_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzapizza_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzanova_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzanova_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzahut.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzahut.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzapizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzapizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzahut_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzahut_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzapizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzapizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzapizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzapizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzanova_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzanova_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizza73_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizza73_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzanova_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzanova_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzapizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzapizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza73_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza73_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzanova_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzanova_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzahut_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzahut_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzahut_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzahut_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzapizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzapizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzahut_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzahut_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza73_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza73_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzahut.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzahut.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzapizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzapizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzanova_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzanova_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzahut_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzahut_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizzahut_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizzahut_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_pizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-mdpi\\pizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzanova_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzanova_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzapizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzapizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzanova.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzanova.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza73.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza73.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizza73_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizza73_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzahut_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzahut_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzahut_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzahut_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizza73.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizza73.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzahut_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzahut_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizzanova_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\pizzanova_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzanova_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzanova_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizzahut_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\drawable\\pizzahut_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzahut.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzahut.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizzanova_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizzanova_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzahut.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzahut.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzahut_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzahut_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza73_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza73_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzanova.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzanova.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizzapizza.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizzapizza.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza73.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza73.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzanova_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzanova_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzanova.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzanova.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_pizza73_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xhdpi\\pizza73_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizza73_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizza73_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_pizzapizza_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxxhdpi\\pizzapizza_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_pizzanova_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-hdpi\\pizzanova_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzahut.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzahut.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_pizza_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza_round.png"
+    }
+]
