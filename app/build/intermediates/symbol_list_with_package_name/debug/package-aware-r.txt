@@ -2694,6 +2694,7 @@ id dylan_radio_group
 id dylan_radio_group2
 id dylan_text
 id dylan_text2
+id dylan_text3
 id easeIn
 id easeInOut
 id easeOut
@@ -2940,10 +2941,12 @@ id staticLayout
 id staticPostLayout
 id stop
 id store_pic
+id store_pic2
 id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id switch1
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -2963,6 +2966,7 @@ id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
+id text1
 id text2
 id textEnd
 id textSpacerNoButtons

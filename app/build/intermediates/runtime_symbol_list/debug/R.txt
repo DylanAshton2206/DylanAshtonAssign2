@@ -2693,6 +2693,7 @@ int id dylan_radio_group 0x7f0900b0
 int id dylan_radio_group2 0x7f0900b1
 int id dylan_text 0x7f0900b2
 int id dylan_text2 0x7f0900b3
+int id dylan_text3 0x7f0901f6
 int id easeIn 0x7f0900b4
 int id easeInOut 0x7f0900b5
 int id easeOut 0x7f0900b6
@@ -2939,10 +2940,12 @@ int id staticLayout 0x7f0901a6
 int id staticPostLayout 0x7f0901a7
 int id stop 0x7f0901a8
 int id store_pic 0x7f0901a9
+int id store_pic2 0x7f0901f7
 int id stretch 0x7f0901aa
 int id submenuarrow 0x7f0901ab
 int id submit_area 0x7f0901ac
 int id supportScrollUp 0x7f0901ad
+int id switch1 0x7f0901f8
 int id tabMode 0x7f0901ae
 int id tag_accessibility_actions 0x7f0901af
 int id tag_accessibility_clickable_spans 0x7f0901b0
@@ -2962,6 +2965,7 @@ int id test_checkbox_app_button_tint 0x7f0901bd
 int id test_radiobutton_android_button_tint 0x7f0901be
 int id test_radiobutton_app_button_tint 0x7f0901bf
 int id text 0x7f0901c0
+int id text1 0x7f0901f9
 int id text2 0x7f0901c1
 int id textEnd 0x7f0901c2
 int id textSpacerNoButtons 0x7f0901c3

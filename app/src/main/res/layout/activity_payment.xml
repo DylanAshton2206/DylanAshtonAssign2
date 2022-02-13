@@ -12,5 +12,30 @@
         android:id="@+id/dylan_text3"
         android:layout_marginTop="-2dp">
     </TextView>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="315dp"
+        android:layout_marginTop="5dp"
+        android:src="@mipmap/pizza_round"
+        android:id="@+id/store_pic2">
+    </ImageView>
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick-up"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="12dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dot"
+        android:id="@+id/text1"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black">
+    </TextView>
+
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,6 +1,7 @@
 package dylan.ashton.n01442206;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -8,16 +9,44 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 public class PaymentActivity extends AppCompatActivity {
+    ImageView pic;
+    String choice;
+    private CoordinatorLayout coordinatorlayout;
+    public String pizzaPick;
+    public String topping;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_payment);
 
+        coordinatorlayout = findViewById(R.id.dylan_layout);
+        pic = findViewById(R.id.store_pic2);
+
+        choice = getIntent().getExtras().getString("choice");
+        pizzaPick = getIntent().getExtras().getString("pizza");
+        topping = getIntent().getExtras().getString("topping");
+
+        if (choice.equals("pizzapizza")) {
+            pic.setImageResource(R.mipmap.pizzapizza);
+        }
+        if (choice.equals("pizzahut")) {
+            pic.setImageResource(R.mipmap.pizzahut);
+        }
+        if (choice.equals("pizzanova")) {
+            pic.setImageResource(R.mipmap.pizzanova);
+        }
+        if (choice.equals("pizza73")) {
+            pic.setImageResource(R.mipmap.pizza73);
+        }
+
+        TextView textView2 = findViewById(R.id.text1);
+        textView2.setText(choice+" "+pizzaPick+" "+topping);
 
     }
 

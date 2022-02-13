@@ -60,7 +60,7 @@ public class OrderActivity extends AppCompatActivity {
     public void onRadioButtonClicked(View view) {
         // Is the button now checked?
         boolean checked = ((RadioButton) view).isChecked();
-        num=num+1;
+        num=1;
         // Check which radio button was clicked
         switch(view.getId()) {
             case R.id.radio1:
@@ -115,26 +115,26 @@ public class OrderActivity extends AppCompatActivity {
         switch (view.getId()) {
             case R.id.checkbox_bacon:
                 if (checked) {
-                    topping=topping+"Bacon";
+                    topping="with Bacon";
                 }
                 break;
             case R.id.checkbox_tomato:
                 if (checked) {
-                    topping=topping+"Tomato";
+                    topping="with Tomato";
                 }
                 break;
             case R.id.checkbox_peppers:
                 if (checked) {
-                    topping=topping+"Peppers";
+                    topping="with Peppers";
                 }
                 break;
             case R.id.checkbox_cheese:
                 if (checked) {
-                    topping=topping+"Cheese";
+                    topping="with Cheese";
                 }
                 break;
         }
-
+                //only one topping recorded
     }
 
 
