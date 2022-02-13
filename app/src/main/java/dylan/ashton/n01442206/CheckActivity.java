@@ -1,8 +1,10 @@
 package dylan.ashton.n01442206;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -88,7 +90,28 @@ public class CheckActivity extends AppCompatActivity {
         return true;
     }
 
-    public void onClick(View view) {
-
+    public void onClick(View v) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(CheckActivity.this);
+        builder.setTitle(R.string.co)
+                .setMessage(R.string.confirm)
+                .setCancelable(false)
+                .setPositiveButton(R.string.y, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        //go to main screen
+                        Intent i = new Intent(CheckActivity.this, DylanActivity.class);
+                        startActivity(i);
+                    }
+                })
+                .setNegativeButton(R.string.n, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        Toast.makeText(CheckActivity.this,R.string.n,Toast.LENGTH_SHORT).show();
+                    }
+                });
+        //Creating dialog box
+        AlertDialog dialog  = builder.create();
+        dialog.show();
     }
+
 }

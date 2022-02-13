@@ -26,6 +26,10 @@
     <string name="peppers">Peppers</string>
     <string name="pick_up">Pick-up</string>
     <string name="mf">missing fields</string>
+    <string name="co">Confirm Order</string>
+    <string name="confirm">30–60 minutes for delivery, continue?</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
     <string-array name="pizza_stores">
         <item>pizzapizza</item>
         <item>pizza73</item>

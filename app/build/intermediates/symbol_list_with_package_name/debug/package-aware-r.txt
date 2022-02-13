@@ -3268,6 +3268,8 @@ string character_counter_pattern
 string cheese
 string chip_text
 string clear_text_end_icon_content_description
+string co
+string confirm
 string deep_dish
 string dot
 string dylan
@@ -3367,6 +3369,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string n
 string new_york_style
 string next
 string ns
@@ -3386,6 +3389,7 @@ string status_bar_notification_info_overflow
 string thin_crusted
 string tomato
 string uid
+string y
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

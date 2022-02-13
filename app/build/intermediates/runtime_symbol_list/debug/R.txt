@@ -3267,6 +3267,8 @@ int string character_counter_pattern 0x7f100023
 int string cheese 0x7f100024
 int string chip_text 0x7f100025
 int string clear_text_end_icon_content_description 0x7f100026
+int string co 0x7f10009d
+int string confirm 0x7f10009e
 int string deep_dish 0x7f100027
 int string dot 0x7f100028
 int string dylan 0x7f100029
@@ -3366,6 +3368,7 @@ int string mtrl_picker_toggle_to_day_selection 0x7f100086
 int string mtrl_picker_toggle_to_text_input_mode 0x7f100087
 int string mtrl_picker_toggle_to_year_selection 0x7f100088
 int string mtrl_timepicker_confirm 0x7f100089
+int string n 0x7f10009f
 int string new_york_style 0x7f10008a
 int string next 0x7f10008b
 int string ns 0x7f10008c
@@ -3385,6 +3388,7 @@ int string status_bar_notification_info_overflow 0x7f100099
 int string thin_crusted 0x7f10009a
 int string tomato 0x7f10009b
 int string uid 0x7f10009c
+int string y 0x7f1000a0
 int style AlertDialog_AppCompat 0x7f110000
 int style AlertDialog_AppCompat_Light 0x7f110001
 int style AndroidThemeColorAccentYellow 0x7f110002

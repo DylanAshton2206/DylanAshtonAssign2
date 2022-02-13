@@ -22,4 +22,9 @@
     <string name="go_to_payment">arrivé au paiement</string>
     <string name="peppers">poivrons</string>
     <string name="pick_up">Récupérer</string>
+    <string name="mf">" champs manquants"</string>
+    <string name="co">confirmer la commande</string>
+    <string name="confirm">30-60 minutes for delivery, continue?</string>
+    <string name="y">Oui</string>
+    <string name="n">Non</string>
 </resources>
