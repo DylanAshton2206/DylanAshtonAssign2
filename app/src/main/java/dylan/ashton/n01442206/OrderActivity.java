@@ -18,6 +18,7 @@ import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
 
+//Dylan Ashton n01442206 RNA
 public class OrderActivity extends AppCompatActivity {
 
     ImageView pic;
@@ -31,6 +32,7 @@ public class OrderActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_order);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         coordinatorlayout = findViewById(R.id.dylan_layout);
         pic = findViewById(R.id.store_pic);
         choice = getIntent().getExtras().getString("choice");

@@ -9,24 +9,32 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//Dylan Ashton n01442206 RNA
 public class PaymentActivity extends AppCompatActivity {
     ImageView pic;
     String choice;
     private CoordinatorLayout coordinatorlayout;
-    public String pizzaPick;
-    public String topping;
+    String pizzaPick;
+    String topping;
+    private EditText name;
+    private EditText credit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_payment);
-
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         coordinatorlayout = findViewById(R.id.dylan_layout);
         pic = findViewById(R.id.store_pic2);
+        name = findViewById(R.id.name);
+        credit = findViewById(R.id.credit);
 
         choice = getIntent().getExtras().getString("choice");
         pizzaPick = getIntent().getExtras().getString("pizza");
@@ -47,6 +55,7 @@ public class PaymentActivity extends AppCompatActivity {
 
         TextView textView2 = findViewById(R.id.text1);
         textView2.setText(choice+" "+pizzaPick+" "+topping);
+
 
     }
 
@@ -88,12 +97,22 @@ public class PaymentActivity extends AppCompatActivity {
         }
         return true;
     }
-    /*
+
+    public void onImageClick(View view) {
+        name.toString();
+        credit.toString();
+        if(name != null&&credit!=null){
+            Pass();
+        }
+    }
+
     public void Pass() {
-        Intent i = new Intent(OrderActivity.this, PaymentActivity.class);
+        Intent i = new Intent(PaymentActivity.this, CheckActivity.class);
         i.putExtra("choice", choice);
         i.putExtra("pizza", pizzaPick);
         i.putExtra("topping", topping);
+        i.putExtra("name",name.toString());
+        i.putExtra("credit",credit.toString());
         startActivity(i);
-    }*/
+    }
 }

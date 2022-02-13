@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Dylan Ashton n01442206 -->
+<resources>
+    <string name="pizza_dial">cadran à pizza</string>
+    <string name="help">aider</string>
+    <string name="menu_pizza_toast">commander une pizza</string>
+    <string name="next">" procéder"</string>
+    <string name="pizza_button">" bouton de pizza"</string>
+    <string name="else_if">" choisir un magasin"</string>
+    <string name="error">" Erreur"</string>
+    <string name="thin_crusted">" croûte mince"</string>
+    <string name="deep_dish">plat profond</string>
+    <string name="new_york_style">" style new-yorkais"</string>
+    <string name="panzerotti">" panzerotti"</string>
+    <string name="small">petit</string>
+    <string name="medium">moyenne</string>
+    <string name="large">grande</string>
+    <string name="cheese">"fromage "</string>
+    <string name="bacon">Bacon</string>
+    <string name="tomato">tomate</string>
+    <string name="ns">" écran suivant"</string>
+    <string name="go_to_payment">arrivé au paiement</string>
+    <string name="peppers">poivrons</string>
+    <string name="pick_up">Récupérer</string>
+</resources>

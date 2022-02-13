@@ -2506,6 +2506,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable order_background
 drawable pizza73_background
 drawable pizza_background
 drawable pizzahut_background
@@ -2655,6 +2656,7 @@ id continuousVelocity
 id coordinator
 id cos
 id counterclockwise
+id credit
 id currentState
 id custom
 id customPanel
@@ -2688,6 +2690,7 @@ id dragRight
 id dragStart
 id dragUp
 id dropdown_menu
+id dylan_checkout
 id dylan_help
 id dylan_layout
 id dylan_radio_group
@@ -2741,6 +2744,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton
 id immediateStop
 id included
 id info
@@ -2821,6 +2825,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3105,6 +3110,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_check
 layout activity_dylan
 layout activity_order
 layout activity_payment
@@ -3200,6 +3206,9 @@ menu example_menu2
 menu overflow_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap order
+mipmap order_foreground
+mipmap order_round
 mipmap pizza
 mipmap pizza73
 mipmap pizza73_foreground
@@ -3317,6 +3326,7 @@ string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
 string medium
 string menu_pizza_toast
+string mf
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -3363,6 +3373,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string peppers
+string pick_up
 string pizza_button
 string pizza_dial
 string search_menu_title

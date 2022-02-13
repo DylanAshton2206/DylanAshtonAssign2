@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Dylan Ashton n01442206 -->
 <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -25,9 +27,10 @@
         android:id="@+id/switch1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Pick-up"
+        android:text="@string/pick_up"
         android:layout_marginTop="20dp"
-        android:layout_marginStart="12dp"/>
+        android:layout_marginStart="12dp"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -37,5 +40,29 @@
         android:textColor="@color/black">
     </TextView>
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        android:hint="Name..."
+        android:layout_marginTop="80dp"
+        android:id="@+id/name"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Credit Card Number..."
+        android:layout_marginTop="120dp"
+        android:maxLength="16"
+        android:id="@+id/credit"/>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/order_round"
+        android:layout_marginTop="170dp"
+        android:background="@color/white"
+        android:onClick="onImageClick"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

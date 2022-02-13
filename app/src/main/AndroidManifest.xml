@@ -12,11 +12,16 @@
         android:theme="@style/Theme.DylanAssign2"
         tools:ignore="AllowBackup">
         <activity
-            android:name=".PaymentActivity"
+            android:name=".CheckActivity"
             android:exported="false" />
         <activity
+            android:name=".PaymentActivity"
+            android:exported="false"
+            android:parentActivityName=".OrderActivity" />
+        <activity
             android:name=".OrderActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".DylanActivity" />
         <activity
             android:name=".DylanActivity"
             android:exported="true">

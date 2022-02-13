@@ -20,11 +20,16 @@
         android:testOnly="true"
         android:theme="@style/Theme.DylanAssign2" >
         <activity
-            android:name="dylan.ashton.n01442206.PaymentActivity"
+            android:name="dylan.ashton.n01442206.CheckActivity"
             android:exported="false" />
         <activity
+            android:name="dylan.ashton.n01442206.PaymentActivity"
+            android:exported="false"
+            android:parentActivityName="dylan.ashton.n01442206.OrderActivity" />
+        <activity
             android:name="dylan.ashton.n01442206.OrderActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName="dylan.ashton.n01442206.DylanActivity" />
         <activity
             android:name="dylan.ashton.n01442206.DylanActivity"
             android:exported="true" >

@@ -1,16 +1,16 @@
 <!--Dylan Ashton n01442206 -->
 <resources>
-    <string name="app_name">DylanAshton N01442206</string>
+    <string name="app_name" translatable="false">DylanAshton N01442206</string>
     <string name="pizza_dial">pizza dial</string>
     <string name="help">-Help-</string>
-    <string name="uid">Dylan Ashton n01442206</string>
+    <string name="uid" translatable="false">Dylan Ashton n01442206</string>
     <string name="menu_pizza_toast">Order pizza</string>
     <string name="next">Next</string>
     <string name="pizza_button">Pizza button</string>
     <string name="else_if">Choose a store</string>
     <string name="error">Please pick a store</string>
-    <string name="dylan">Dylan</string>
-    <string name="dot">…</string>
+    <string name="dylan" translatable="false">Dylan</string>
+    <string name="dot" translatable="false">…</string>
     <string name="thin_crusted">Thin Crusted</string>
     <string name="deep_dish">Deep dish</string>
     <string name="new_york_style">New York Style</string>
@@ -24,6 +24,8 @@
     <string name="ns">next screen</string>
     <string name="go_to_payment">Go to payment</string>
     <string name="peppers">Peppers</string>
+    <string name="pick_up">Pick-up</string>
+    <string name="mf">missing fields</string>
     <string-array name="pizza_stores">
         <item>pizzapizza</item>
         <item>pizza73</item>
