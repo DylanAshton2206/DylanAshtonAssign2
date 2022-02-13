@@ -20,7 +20,8 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="100dp"
             android:text="@string/new_york_style"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked"/>
 
         <RadioButton
             android:id="@+id/radio2"
@@ -29,7 +30,8 @@
             android:layout_marginStart="100dp"
             android:layout_marginTop="-20dp"
             android:text="@string/deep_dish"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked"/>
         <RadioButton
             android:id="@+id/radio3"
             android:layout_width="wrap_content"
@@ -37,7 +39,8 @@
             android:layout_marginStart="100dp"
             android:layout_marginTop="-20dp"
             android:text="@string/thin_crusted"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked"/>
         <RadioButton
             android:id="@+id/radio4"
             android:layout_width="wrap_content"
@@ -45,7 +48,8 @@
             android:layout_marginStart="100dp"
             android:layout_marginTop="-20dp"
             android:text="@string/panzerotti"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked"/>
     </RadioGroup>
 
     <RadioGroup
@@ -61,21 +65,24 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="100dp"
             android:text="@string/small"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked2"/>
         <RadioButton android:id="@+id/radio2_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="100dp"
             android:layout_marginTop="-20dp"
             android:text="@string/medium"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked2"/>
         <RadioButton android:id="@+id/radio3_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="100dp"
             android:layout_marginTop="-20dp"
             android:text="@string/large"
-            android:textColor="@color/blue"/>
+            android:textColor="@color/blue"
+            android:onClick="onRadioButtonClicked2"/>
     </RadioGroup>
 
     <TextView

@@ -1,7 +1,6 @@
 package dylan.ashton.n01442206;
 
 import android.content.Intent;
-import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
@@ -16,33 +15,29 @@ import androidx.appcompat.app.AppCompatActivity;
 
 //Dylan Ashton n01442206 RNA
 public class DylanActivity extends AppCompatActivity {
-    private ImageButton Button1;
-    private ImageButton Button2;
-    private ImageButton Button3;
-    private ImageButton Button4;
-    private Button next;
-    private String[] stores;
-    private String choice;
+        private String[] stores;
+        private String choice;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dylan);
+
         stores=getResources().getStringArray(R.array.pizza_stores);
 
-        Button1 = findViewById(R.id.pizza_pizza);    //Button 1
-        Button1.setOnClickListener(view -> choice=stores[0]);
+        ImageButton button1 = findViewById(R.id.pizza_pizza);    //Button 1
+        button1.setOnClickListener(view -> choice=stores[0]);
 
-        Button2 = findViewById(R.id.pizza_73);    //Button 2
-        Button2.setOnClickListener(view -> choice=stores[1]);
+        ImageButton button2 = findViewById(R.id.pizza_73);    //Button 2
+        button2.setOnClickListener(view -> choice=stores[1]);
 
-        Button3 = findViewById(R.id.pizza_hut);    //Button 3
-        Button3.setOnClickListener(view -> choice=stores[2]);
+        ImageButton button3 = findViewById(R.id.pizza_hut);    //Button 3
+        button3.setOnClickListener(view -> choice=stores[2]);
 
-        Button4 = findViewById(R.id.pizza_nova);    //Button 4
-        Button4.setOnClickListener(view -> choice=stores[3]);
+        ImageButton button4 = findViewById(R.id.pizza_nova);    //Button 4
+        button4.setOnClickListener(view -> choice=stores[3]);
 
-        next = findViewById(R.id.button); //next button
+        Button next = findViewById(R.id.button); //next button
         next.setOnClickListener(view -> {
                     if (choice!=null) {
                         Toast.makeText(DylanActivity.this, choice, Toast.LENGTH_SHORT).show();
@@ -54,9 +49,6 @@ public class DylanActivity extends AppCompatActivity {
     }
 
 
-
-
-
     /* Override this method to inflate the overflow menu xml file.*/
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -66,6 +58,7 @@ public class DylanActivity extends AppCompatActivity {
         menuInflater.inflate(R.menu.overflow_activity, menu);
         return true;
     }
+
     /* When user select a menu item in the overflow menu xml file, this method will be invoked.*/
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

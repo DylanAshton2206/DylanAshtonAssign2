@@ -12,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.ImageView;
+import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -22,72 +23,133 @@ public class OrderActivity extends AppCompatActivity {
     ImageView pic;
     String choice;
     private CoordinatorLayout coordinatorlayout;
+    public String pizzaPick;
+    public String topping;
+    int num;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_order);
-
-        pic = findViewById(R.id.store_pic);
-        choice=getIntent().getExtras().getString("choice");
         coordinatorlayout = findViewById(R.id.dylan_layout);
-        showSnackBar();
+        pic = findViewById(R.id.store_pic);
+        choice = getIntent().getExtras().getString("choice");
 
-        if (choice.equals("pizzapizza")){
+        if (choice.equals("pizzapizza")) {
             pic.setImageResource(R.mipmap.pizzapizza);
         }
-        if (choice.equals("pizzahut")){
+        if (choice.equals("pizzahut")) {
             pic.setImageResource(R.mipmap.pizzahut);
         }
-        if (choice.equals("pizzanova")){
+        if (choice.equals("pizzanova")) {
             pic.setImageResource(R.mipmap.pizzanova);
         }
-        if (choice.equals("pizza73")){
+        if (choice.equals("pizza73")) {
             pic.setImageResource(R.mipmap.pizza73);
         }
     }
 
-    /* Override this method to inflate the overflow menu xml file.*/
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Get menu inflater object.
         MenuInflater menuInflater = getMenuInflater();
-        // Inflate the custom overflow menu
         menuInflater.inflate(R.menu.overflow_activity, menu);
         return true;
     }
-    /* When user select a menu item in the overflow menu xml file, this method will be invoked.*/
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Get clicked menu item id.
-        int itemId = item.getItemId();
-        // Get the text view object.
-        TextView textView = findViewById(R.id.dylan_text2);
-        if(itemId == R.id.dylan_help)
-        {
-            GoToWebPage("https://www.youtube.com/");
-        }else if(itemId == R.id.maker_name)
-        {
-            textView.setText(R.string.uid);
+
+
+    public void onRadioButtonClicked(View view) {
+        // Is the button now checked?
+        boolean checked = ((RadioButton) view).isChecked();
+        num=num+1;
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.radio1:
+                if (checked)
+                    pizzaPick = "New York Style";
+                    break;
+            case R.id.radio2:
+                if (checked)
+                    pizzaPick = "Deep Dish";
+                    break;
+            case R.id.radio3:
+                if (checked)
+                    pizzaPick = "Thin Crusted";
+                    break;
+            case R.id.radio4:
+                if (checked)
+                    pizzaPick = "Panzerotti";
+                    break;
         }
-        else if(itemId == R.id.pizza)
-        {
-            Toast.makeText(OrderActivity.this,
-                    R.string.menu_pizza_toast,
-                    Toast.LENGTH_SHORT).show();
-            Intent intent = new Intent(Intent.ACTION_DIAL);
-            startActivity(intent);
-        }
-        return true;
     }
+
+    public void onRadioButtonClicked2(View view) {
+        // Is the button now checked?
+        boolean checked = ((RadioButton) view).isChecked();
+        num=num+1;
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.radio1_1:
+                if (checked)
+                    pizzaPick = "Small "+pizzaPick;
+                break;
+            case R.id.radio2_1:
+                if (checked)
+                    pizzaPick = "Medium "+pizzaPick;
+                break;
+            case R.id.radio3_1:
+                if (checked)
+                    pizzaPick = "Large "+pizzaPick;
+                break;
+        }
+    }
+
+    public void onCheckboxClicked(View view) {
+        // Is the view now checked?
+        boolean checked = ((CheckBox) view).isChecked();
+        num=num+1;
+        if(num>2){
+            showSnackBar();
+            num=-1;
+        }
+        // Check which checkbox was clicked
+        switch (view.getId()) {
+            case R.id.checkbox_bacon:
+                if (checked) {
+                    topping=topping+"Bacon";
+                }
+                break;
+            case R.id.checkbox_tomato:
+                if (checked) {
+                    topping=topping+"Tomato";
+                }
+                break;
+            case R.id.checkbox_peppers:
+                if (checked) {
+                    topping=topping+"Peppers";
+                }
+                break;
+            case R.id.checkbox_cheese:
+                if (checked) {
+                    topping=topping+"Cheese";
+                }
+                break;
+        }
+
+    }
+
+
+
+
     public void showSnackBar() {
         Snackbar snackbar = Snackbar.make(coordinatorlayout, "Continue to payment screen", Snackbar.LENGTH_INDEFINITE).setAction("Next Screen", v -> Pass());
         snackbar.show();
     }
-    public void Pass(){
-        Intent i=new Intent(OrderActivity.this, PaymentActivity.class);
-        String Txt=choice;
-        i.putExtra("choice",Txt);
+
+    public void Pass() {
+        Intent i = new Intent(OrderActivity.this, PaymentActivity.class);
+        i.putExtra("choice", choice);
+        i.putExtra("pizza", pizzaPick);
+        i.putExtra("topping", topping);
         startActivity(i);
     }
 
@@ -96,37 +158,23 @@ public class OrderActivity extends AppCompatActivity {
         intent.setData(Uri.parse(yourUrl));
         startActivity(intent);
     }
+    //menu
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int itemId = item.getItemId();
 
-    public void onCheckboxClicked(View view) {
-        // Is the view now checked?
-        boolean checked = ((CheckBox) view).isChecked();
-        // Check which checkbox was clicked
-        switch(view.getId()) {
-            case R.id.checkbox_bacon:
-                if (checked){
-
-                }
-
-            else{
-
-                }
-                break;
-            case R.id.checkbox_tomato:
-                if (checked){
-
-                }
-            else{
-
-                }
-                break;
-            case R.id.checkbox_peppers:
-                if (checked){
-
-                }
-                else{
-
-                }
-                break;
+        TextView textView = findViewById(R.id.dylan_text2);
+        if (itemId == R.id.dylan_help) {
+            GoToWebPage("https://www.youtube.com/");
+        } else if (itemId == R.id.maker_name) {
+            textView.setText(R.string.uid);
+        } else if (itemId == R.id.pizza) {
+            Toast.makeText(OrderActivity.this,
+                    R.string.menu_pizza_toast,
+                    Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(Intent.ACTION_DIAL);
+            startActivity(intent);
         }
+        return true;
     }
 }
