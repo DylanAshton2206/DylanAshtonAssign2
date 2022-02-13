@@ -396,6 +396,10 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-xxhdpi\\pizza73.png"
     },
     {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_pizzanova_round.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign2\\app\\src\\main\\res\\mipmap-anydpi-v26\\pizzanova_round.xml"
     },

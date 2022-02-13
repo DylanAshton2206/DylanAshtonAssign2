@@ -48,8 +48,6 @@ public class DylanActivity extends AppCompatActivity {
                         Toast.makeText(DylanActivity.this, choice, Toast.LENGTH_SHORT).show();
                         Pass();
                     }
-            Toast.makeText(DylanActivity.this,
-                    R.string.error, Toast.LENGTH_SHORT).show();
         });
 
 
@@ -93,7 +91,6 @@ public class DylanActivity extends AppCompatActivity {
         return true;
     }
 
-    //functions
     public void GoToWebPage(String yourUrl) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse(yourUrl));
@@ -102,7 +99,8 @@ public class DylanActivity extends AppCompatActivity {
     public void Pass(){
         Intent i=new Intent(DylanActivity.this,OrderActivity.class);
         String Txt=choice;
-        i.putExtra("Value",Txt);
+        i.putExtra("choice",Txt);
         startActivity(i);
     }
+
 }

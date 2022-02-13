@@ -11,10 +11,23 @@
     <string name="error">Please pick a store</string>
     <string name="dylan">Dylan</string>
     <string name="dot">…</string>
+    <string name="thin_crusted">Thin Crusted</string>
+    <string name="deep_dish">Deep dish</string>
+    <string name="new_york_style">New York Style</string>
+    <string name="panzerotti">Panzerotti</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="cheese">Cheese</string>
+    <string name="bacon">Bacon</string>
+    <string name="tomato">Tomato</string>
+    <string name="ns">next screen</string>
+    <string name="go_to_payment">Go to payment</string>
+    <string name="peppers">Peppers</string>
     <string-array name="pizza_stores">
-        <item>PizzaPizza</item>
-        <item>Pizza73</item>
-        <item>PizzaHut</item>
-        <item>PizzaNova</item>
+        <item>pizzapizza</item>
+        <item>pizza73</item>
+        <item>pizzahut</item>
+        <item>pizzanova</item>
     </string-array>
 </resources>

@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/orange2"
     tools:context=".DylanActivity">
 
     <TextView
@@ -20,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:layout_marginStart="100dp"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="@color/orange2"
         android:contentDescription="@string/pizza_button"
         android:src="@mipmap/pizzapizza" />
 
@@ -30,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
         android:layout_marginStart="100dp"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="@color/orange2"
         android:contentDescription="@string/pizza_button"
         android:src="@mipmap/pizza73" />
 
@@ -40,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:layout_marginStart="200dp"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="@color/orange2"
         android:contentDescription="@string/pizza_button"
         android:src="@mipmap/pizzahut" />
 
@@ -50,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
         android:layout_marginStart="200dp"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="@color/orange2"
         android:contentDescription="@string/pizza_button"
         android:src="@mipmap/pizzanova" />
 
