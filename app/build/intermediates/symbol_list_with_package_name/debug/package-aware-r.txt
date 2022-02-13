@@ -2615,6 +2615,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id button
+id button2
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2698,6 +2699,7 @@ id dylan_radio_group2
 id dylan_text
 id dylan_text2
 id dylan_text3
+id dylan_text4
 id easeIn
 id easeInOut
 id easeOut
@@ -2947,6 +2949,7 @@ id staticPostLayout
 id stop
 id store_pic
 id store_pic2
+id store_pic3
 id stretch
 id submenuarrow
 id submit_area
@@ -2978,6 +2981,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

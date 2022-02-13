@@ -59,14 +59,6 @@ public class PaymentActivity extends AppCompatActivity {
 
     }
 
-
-
-
-
-
-
-
-
     public void GoToWebPage(String yourUrl) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse(yourUrl));
@@ -78,6 +70,7 @@ public class PaymentActivity extends AppCompatActivity {
         menuInflater.inflate(R.menu.overflow_activity, menu);
         return true;
     }
+
     //menu
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -99,11 +92,7 @@ public class PaymentActivity extends AppCompatActivity {
     }
 
     public void onImageClick(View view) {
-        name.toString();
-        credit.toString();
-        if(name != null&&credit!=null){
             Pass();
-        }
     }
 
     public void Pass() {
